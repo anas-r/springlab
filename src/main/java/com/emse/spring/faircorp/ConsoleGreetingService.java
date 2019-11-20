@@ -1,6 +1,7 @@
 package com.emse.spring.faircorp;
 
 import com.emse.spring.faircorp.GreetingService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 @Service
