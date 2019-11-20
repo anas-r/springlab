@@ -5,9 +5,7 @@ import org.junit.Rule;
 import org.junit.Test;
 import org.springframework.boot.test.rule.OutputCapture;
 
-import static org.junit.jupiter.api.Assertions.*;
-
-class ConsoleGreetingServiceTests {
+public class ConsoleGreetingServiceTests {
     @Rule
     public OutputCapture outputCapture = new OutputCapture();
 

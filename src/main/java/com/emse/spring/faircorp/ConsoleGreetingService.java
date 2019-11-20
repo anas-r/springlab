@@ -1,5 +1,6 @@
-package com.emse.spring.faircorp.hello;
+package com.emse.spring.faircorp;
 
+import com.emse.spring.faircorp.GreetingService;
 import org.springframework.stereotype.Service;
 
 @Service
